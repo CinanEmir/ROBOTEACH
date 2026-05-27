@@ -149,7 +149,7 @@ Robot, MuJoCo fizik motorunda toplam 100 milyon simülasyon adımı boyunca eği
 Bu proje, Ondokuz Mayıs Üniversitesi Bilgisayar Mühendisliği lisans bitirme projesi kapsamında geliştirilmiştir.
 
 - **RL, Fizik Simülasyonu ve Arayüz (Backend/Frontend):**  
-  Emir Cinan, Semih, Muhammet Köse
+  Emir Cinan
 
 - **Görüntü İşleme, Kinematik ve Biyomekanik Veri Çıkarımı:**  
   Ertuğrul Han Şen
